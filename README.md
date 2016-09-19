@@ -3,7 +3,7 @@
 # Список репозиториев
 1. Карина Вылегжанина [Cуперпроект](https://github.com/vilegzhanina/ProgrammingCourse)
 2. Вадим Дьячков [Smart Schedule](https://github.com/vaddya/smart-schedule)
-3. Антон Ламтев [Курсовой суперпроект](https://github.com/lamtev/notation_translator)
+3. Антон Ламтев [poker](https://github.com/lamtev/poker)
 4. Жуйков Артем [Курсовой проект](https://github.com/Zhuikov/JustAnotherRepository)
 5. Маринченко Валентин [Курсовой проект](https://github.com/marinchenkova/Project)
 6. Крецу Андрей [Курсовой проект] (https://github.com/kreand/java_project)
