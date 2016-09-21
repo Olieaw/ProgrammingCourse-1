@@ -6,7 +6,7 @@
 3. Антон Ламтев [poker](https://github.com/lamtev/poker)
 4. Жуйков Артем [Курсовой проект](https://github.com/Zhuikov/JustAnotherRepository)
 5. Маринченко Валентин [Курсовой проект](https://github.com/marinchenkova/Project)
-6. Крецу Андрей [Курсовой проект] (https://github.com/kreand/java_project)
+6. Крецу Андрей [1010] (https://github.com/kreand/1010)
 7. Ильин Андрей [Battle Tanks] (https://github.com/WalrusQ/Battle-Tanks)
 8. Мальцев Михаил [Курсовой проект] (https://github.com/mikle9997/Course-work)
 9. Курякин Данил [Курсовой суперпроект](https://github.com/Olieaw/JavaProject)
