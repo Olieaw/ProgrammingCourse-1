@@ -11,7 +11,7 @@
 8. Мальцев Михаил [Курсовой проект] (https://github.com/mikle9997/Course-work)
 9. Курякин Данил [Tower Defense](https://github.com/Olieaw/JavaProject)
 10. Осипов Артемий [Курсовой гиперпроект](https://github.com/Ecl1pce/LastDayOfSystem)
-11. Леженин Юрий [InSpace](https://github.com/lezhenin/InSpace)
+11. Леженин Юрий [InSpace](https://github.com/lezhenin/InSpace/tree/develop)
 12. Власова Алина [Курсовой проект](https://github.com/Vlasova/CourseWork)
 13. Лиза Кузовкина [Курсовой проект](https://github.com/kuzo-liza/CookBook)
 14. Крылов Иван [Курсовой Проект](https://github.com/VanyaKrylov/Project)
