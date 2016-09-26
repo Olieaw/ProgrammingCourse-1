@@ -16,4 +16,4 @@
 13. Лиза Кузовкина [Курсовой проект](https://github.com/kuzo-liza/CookBook)
 14. Крылов Иван [Курсовой Проект](https://github.com/VanyaKrylov/Project)
 15. Корсков Алексей [Курсовой Проект](https://github.com/Korskov98/Draughts)
-16. 
+16. Кремнева Вероника [SunRadio](https://github.com/vkremneva/SunRadio)
