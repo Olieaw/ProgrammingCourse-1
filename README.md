@@ -4,7 +4,7 @@
 1. Карина Вылегжанина [Cуперпроект](https://github.com/vilegzhanina/ProgrammingCourse)
 2. Вадим Дьячков [Smart Schedule](https://github.com/vaddya/smart-schedule)
 3. Антон Ламтев [poker](https://github.com/lamtev/poker)
-4. Жуйков Артем [Курсовой проект](https://github.com/Zhuikov/JustAnotherRepository)
+4. Жуйков Артем [Курсовой проект](https://github.com/Zhuikov/Notwithstanding)
 5. Маринченко Валентин [Курсовой проект](https://github.com/marinchenkova/Project)
 6. Крецу Андрей [1010] (https://github.com/kreand/1010)
 7. Ильин Андрей [Battle Tanks] (https://github.com/WalrusQ/Battle-Tanks)
