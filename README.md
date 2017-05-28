@@ -7,7 +7,7 @@
 4. Жуйков Артем [Курсовой проект](https://github.com/Zhuikov/Notwithstanding)
 5. Маринченко Валентин [Курсовой проект](https://github.com/marinchenkova/Project)
 8. Мальцев Михаил [Курсовой проект](https://github.com/mikle9997/Course-work)
-9. Курякин Данил [Tower Defense](https://github.com/Olieaw/JavaProject)
+9. Курякин Данил [Курсовой проект](https://github.com/Olieaw/Snake)
 11. Леженин Юрий [InSpace](https://github.com/lezhenin/InSpace/tree/develop)
 12. Власова Алина [Курсовой проект](https://github.com/Vlasova/CourseWork)
 14. Крылов Иван [Курсовой Проект](https://github.com/VanyaKrylov/Project)
